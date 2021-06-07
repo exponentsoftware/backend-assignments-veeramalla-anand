@@ -1,0 +1,29 @@
+{
+  "name": "backend-assignments-veeramalla-anand",
+  "version": "1.0.0",
+  "description": "## TODO List",
+  "main": "app.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.13",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/backend-assignments-veeramalla-anand.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/backend-assignments-veeramalla-anand/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/backend-assignments-veeramalla-anand#readme"
+}
